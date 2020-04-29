@@ -1,2 +1,2 @@
-# B-_Tree
+# B+_Tree
 Ppt of B+_Tree
